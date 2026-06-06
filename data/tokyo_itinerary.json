@@ -1,0 +1,699 @@
+{
+  "trip": "Tokyo",
+  "dates": "June 8-10, 2026",
+  "hotel": {
+    "name": "ACT ONE Japan",
+    "address": "6-11-11 Shinjuku, Shinjuku-ku, Tokyo",
+    "location": {
+      "lat": 35.6938,
+      "lng": 139.7036,
+      "maps_url": "https://maps.google.com/?q=ACT+ONE+Japan+Shinjuku+Tokyo"
+    }
+  },
+  "days": [
+    {
+      "day": 1,
+      "date": "Monday Jun 8",
+      "theme": "Arrival · Sanno Matsuri choir · Harry Potter Akasaka · Check-in · Gyoen · Central Park hydrangeas · Observation deck · Konbini night",
+      "slots": [
+        {
+          "time": "5:55am",
+          "title": "Land Haneda",
+          "description": "Immigration, bags, Suica IC cards — all at the airport. Allow 60–75 min. Target exit by 9am.",
+          "nav": "Follow Arrivals signs · Suica machines at ticket gates · Search 'Haneda Airport Terminal 3'",
+          "tags": [
+            "tip"
+          ],
+          "tips": [
+            "Suica card before exit"
+          ],
+          "location": {
+            "name": "Haneda Airport Terminal 3",
+            "lat": 35.5494,
+            "lng": 139.7798,
+            "maps_url": "https://maps.google.com/maps?daddr=Haneda%20Airport%20Terminal%203"
+          }
+        },
+        {
+          "time": "9:00am",
+          "title": "Limousine bus → Shinjuku · drop bags",
+          "description": "Direct to hotel, luggage underneath, no transfers. ~75 min. Drop bags at hotel reception — can't check in until 2–3pm.",
+          "nav": "Airport Limousine counter at Arrivals · Ask for 'Basta Shinjuku' stop · Hotel is 10 min walk east from Basta Shinjuku",
+          "tags": [
+            "transit"
+          ],
+          "tips": [
+            "Drop bags at hotel on arrival — check-in not until 2-3pm"
+          ],
+          "location": {
+            "name": "Basta Shinjuku Bus Terminal",
+            "lat": 35.6896,
+            "lng": 139.7006,
+            "maps_url": "https://maps.google.com/maps?daddr=Basta%20Shinjuku%20Bus%20Terminal"
+          }
+        },
+        {
+          "time": "10:30am",
+          "title": "Breakfast — Shinjuku kissaten",
+          "description": "Old-school Japanese coffee shop near the hotel. Sit, eat, decompress. Morning set (toast, egg, coffee).",
+          "nav": "Walk from hotel · Search 'kissaten Shinjuku' or ask hotel staff",
+          "tags": [
+            "food"
+          ],
+          "location": null
+        },
+        {
+          "time": "11:00am",
+          "title": "Metro to Akasaka",
+          "description": "Head to Akasaka for Sanno Matsuri. Start with Harry Potter station, then walk to the torii tunnel base.",
+          "nav": "Metro Marunouchi line from Shinjuku-sanchome → Akasaka-mitsuke (8 min) · Transfer Chiyoda line one stop → Akasaka Station, Exit 2 · Search \"Akasaka Station Tokyo\"",
+          "tags": [
+            "transit"
+          ],
+          "location": null
+        },
+        {
+          "time": "11:15am",
+          "title": "Harry Potter — Akasaka Station",
+          "description": "5 min walk from Akasaka Station. Station fully themed — floating candles, moving portraits, HP music. Giant time turner photo op at Exit 3a. 20–30 min. Then walk around to the torii tunnel entrance.",
+          "nav": "Already at Akasaka Station · Exit 3a · Search \"Akasaka Station Tokyo Harry Potter\" · After HP wander, walk 5 min to torii tunnel base at Exit 2 side",
+          "tags": [
+            "free"
+          ],
+          "location": {
+            "name": "Akasaka Station Tokyo Harry Potter",
+            "lat": 35.6736,
+            "lng": 139.7372,
+            "maps_url": "https://maps.google.com/maps?daddr=Akasaka%20Station%20Tokyo%20Harry%20Potter"
+          }
+        },
+        {
+          "time": "11:45am",
+          "title": "Hie Shrine — tea ceremony + sweets",
+          "description": "Sanno Matsuri active Jun 7–17. Traditional Japanese sweets and Sayama tea served all day in shrine precincts. Tunnel of red torii gates. Wander the grounds before the choir starts.",
+          "nav": "From Akasaka Station Exit 2, walk 5 min to torii tunnel base · Climb up through ~90 red torii gates (stairs) · Reach shrine grounds at the top · Tea ceremony in shrine precincts · Search \"Hie Shrine Torii Tunnel Tokyo\"",
+          "tags": [
+            "free",
+            "festival"
+          ],
+          "location": {
+            "name": "Hie Shrine Torii Tunnel Tokyo",
+            "lat": 35.6747,
+            "lng": 139.7396,
+            "maps_url": "https://maps.google.com/maps?daddr=Hie%20Shrine%20Torii%20Tunnel%20Tokyo"
+          },
+          "tips": [
+            "Enter via torii tunnel stairs from Akasaka side · one-way loop · escalator down the other side after choir"
+          ]
+        },
+        {
+          "time": "12:15pm",
+          "title": "Choir concert — Songs of Japan",
+          "description": "Akasaka Hikawa Choir performs in the lower worship hall (下拝殿). 45 min. Jun 8 only. Ancient shrine + live Japanese choral music + festival atmosphere.",
+          "nav": "At Hie Shrine main grounds · Lower worship hall (下拝殿) · Signposted within shrine · Jun 8 only at 12:15pm",
+          "tags": [
+            "anchor",
+            "free"
+          ],
+          "tips": [
+            "Jun 8 only — this is a one-time event"
+          ],
+          "location": {
+            "name": "Hie Shrine Tokyo",
+            "lat": 35.6747,
+            "lng": 139.7396,
+            "maps_url": "https://maps.google.com/maps?daddr=Hie%20Shrine%20Tokyo"
+          }
+        },
+        {
+          "time": "2:00pm",
+          "title": "Back to Shinjuku — hotel check-in",
+          "description": "Descend via outdoor escalator on the Tameike-Sanno side. Head back for the 2–3pm check-in window. Showers, rest, regroup.",
+          "nav": "After choir, take outdoor escalator down from shrine · Walk 5 min to Tameike-Sanno Station · Ginza/Namboku line → transfer to Marunouchi → Shinjuku-sanchome · ~15 min · Walk to hotel",
+          "tags": [
+            "anchor"
+          ],
+          "tips": [
+            "2–3pm check-in"
+          ],
+          "location": {
+            "name": "ACT ONE Japan Shinjuku",
+            "lat": 35.6938,
+            "lng": 139.7036,
+            "maps_url": "https://maps.google.com/maps?daddr=ACT%20ONE%20Japan%20Shinjuku"
+          }
+        },
+        {
+          "time": "3:15pm",
+          "title": "Shinjuku Gyoen National Garden",
+          "description": "¥500 entry. Huge, peaceful, lots of benches. Perfect for jet-lagged wandering. Allow 60–75 min. Closes 6pm in June (last entry 5:30pm).",
+          "nav": "JR Shinjuku South Exit, 10 min walk · OR Metro Marunouchi → Shinjuku-Gyoenmae, Exit 2, 5 min walk · Search 'Shinjuku Gyoen'",
+          "tags": [],
+          "tips": [
+            "¥500 entry · closes 6pm in June · last entry 5:30pm"
+          ],
+          "location": {
+            "name": "Shinjuku Gyoen National Garden",
+            "lat": 35.685,
+            "lng": 139.71,
+            "maps_url": "https://maps.google.com/maps?daddr=Shinjuku%20Gyoen%20National%20Garden"
+          }
+        },
+        {
+          "time": "4:30pm",
+          "title": "Shinjuku Central Park — Hydrangea Road",
+          "description": "2–3 min walk from Tokyo Metropolitan Building. Peak June bloom — blue, purple, white, pink hydrangeas. Free, 20–30 min.",
+          "nav": "Walk 2-3 min west from Shinjuku Gyoen toward Shinjuku Station West Exit direction · Or walk directly from hotel · Search 'Shinjuku Central Park Tokyo'",
+          "tags": [
+            "free"
+          ],
+          "location": {
+            "name": "Shinjuku Central Park Tokyo",
+            "lat": 35.6912,
+            "lng": 139.6897,
+            "maps_url": "https://maps.google.com/maps?daddr=Shinjuku%20Central%20Park%20Tokyo"
+          }
+        },
+        {
+          "time": "5:00pm",
+          "title": "Free observation deck — 45th floor",
+          "description": "202m up, free. Views of Skytree, Tokyo Tower, Meiji Shrine, Fuji on clear days. Sunset ~7pm. North tower slightly less crowded.",
+          "nav": "2-3 min walk from Shinjuku Central Park · OR Oedo line → Tochomae (basement of building) · Search 'Tokyo Metropolitan Government Building' · North tower entrance",
+          "tags": [
+            "free"
+          ],
+          "tips": [
+            "Go up by 5pm to beat the queue · North tower slightly less crowded"
+          ],
+          "location": {
+            "name": "Tokyo Metropolitan Government Building Observatory",
+            "lat": 35.6894,
+            "lng": 139.6917,
+            "maps_url": "https://maps.google.com/maps?daddr=Tokyo%20Metropolitan%20Government%20Building%20Observatory"
+          }
+        },
+        {
+          "time": "7:00pm",
+          "title": "Projection mapping show — Citizens' Square",
+          "description": "Free show every 30 min from 7:30pm on the twin towers. Watch from grassy plaza outside the building.",
+          "nav": "Stay at Metropolitan Building · Citizens' Square is the grassy area in front of the towers · Show starts 7:30pm",
+          "tags": [
+            "free"
+          ],
+          "tips": [
+            "Show starts 7:30pm · every 30 min"
+          ],
+          "location": {
+            "name": "Tokyo Metropolitan Government Building",
+            "lat": 35.6894,
+            "lng": 139.6917,
+            "maps_url": "https://maps.google.com/maps?daddr=Tokyo%20Metropolitan%20Government%20Building"
+          }
+        },
+        {
+          "time": "8:15pm",
+          "title": "Konbini dinner — first konbini experience",
+          "description": "7-Eleven or FamilyMart near hotel. Everyone grabs their own — onigiri, bento, karaage, edamame, inari sushi, drinks, dessert. Eat in the rooms. Early night — jet lag wins tonight.",
+          "nav": "Walk back to hotel area · Search '7-Eleven Shinjuku' · Open 24hrs",
+          "tags": [
+            "food",
+            "konbini"
+          ],
+          "tips": [
+            "Must-try: egg salad sandwich, onigiri, chicken karaage, inari sushi"
+          ],
+          "location": {
+            "name": "7-Eleven Shinjuku Tokyo",
+            "lat": null,
+            "lng": null,
+            "maps_url": "https://maps.google.com/maps?daddr=7-Eleven%20Shinjuku%20Tokyo"
+          }
+        }
+      ],
+      "rain_plan": "Largely rain-resilient. Hie Shrine choir is indoors (lower worship hall). Observation deck fully indoor. Gyoen and Central Park fine with umbrellas. Konbini always indoors. Just bring umbrellas."
+    },
+    {
+      "day": 2,
+      "date": "Tuesday Jun 9",
+      "theme": "Meiji · Harry Potter Harajuku · Takeshita · Shibuya · Nakameguro · Ghibli Clock · teamLab Planets",
+      "slots": [
+        {
+          "time": "8:30am",
+          "title": "Meiji Shrine",
+          "description": "Forested walk, torii gate, quiet before crowds. Sake + wine barrels. Allow 45 min. Exit via the Omotesando Gate (south side) — Harry Potter store and Takeshita Street are a 5-min walk.",
+          "nav": "JR Yamanote → Harajuku Station, Omotesando Exit (south side) · 1-2 min walk to main torii gate · Search 'Meiji Jingu Shrine Tokyo'",
+          "tags": [
+            "free"
+          ],
+          "tips": [
+            "Go early — crowds from 10am · Use Omotesando Exit not the forest side"
+          ],
+          "location": {
+            "name": "Meiji Jingu Shrine Tokyo",
+            "lat": 35.6761,
+            "lng": 139.6993,
+            "maps_url": "https://maps.google.com/maps?daddr=Meiji%20Jingu%20Shrine%20Tokyo"
+          }
+        },
+        {
+          "time": "9:30am",
+          "title": "Breakfast — Harajuku",
+          "description": "Café Mori no Terrace at the Yoyogi Park entrance. Or Takeshita Street crepes.",
+          "nav": "5 min walk from Meiji south gate toward Takeshita Street · Search 'Cafe Mori no Terrace Harajuku'",
+          "tags": [
+            "food"
+          ],
+          "location": null
+        },
+        {
+          "time": "10:00am",
+          "title": "Harry Potter Flagship Store — Harajuku",
+          "description": "Japan's first HP flagship, opened 2025. Right at Meiji-Jingumae Station — zero detour between Meiji and Takeshita. Japan-only exclusives. 20–30 min.",
+          "nav": "3 min walk from Meiji south gate · Near Meiji-Jingumae Station on Omotesando-dori · Search 'Harry Potter Store Harajuku Tokyo'",
+          "tags": [],
+          "tips": [
+            "Japan-only exclusive items"
+          ],
+          "location": {
+            "name": "Harry Potter Store Harajuku Tokyo",
+            "lat": 35.6697,
+            "lng": 139.7025,
+            "maps_url": "https://maps.google.com/maps?daddr=Harry%20Potter%20Store%20Harajuku%20Tokyo"
+          }
+        },
+        {
+          "time": "10:30am",
+          "title": "Takeshita Street wander",
+          "description": "Pedestrian-only, very colourful, 30 min. Cat Street runs parallel toward Shibuya — quieter, good boutiques, 20-min walk to the scramble.",
+          "nav": "Walk from HP store · Takeshita-dori directly behind Harajuku Station · Search 'Takeshita Street Harajuku'",
+          "tags": [
+            "free"
+          ],
+          "location": {
+            "name": "Takeshita Street Harajuku Tokyo",
+            "lat": 35.6706,
+            "lng": 139.7038,
+            "maps_url": "https://maps.google.com/maps?daddr=Takeshita%20Street%20Harajuku%20Tokyo"
+          }
+        },
+        {
+          "time": "11:15am",
+          "title": "Shibuya scramble crossing",
+          "description": "Watch from street level, then Mag's Park rooftop for aerial shot (free). Hachiko statue right outside.",
+          "nav": "Walk 15 min down Cat Street from Takeshita · OR JR Yamanote → Shibuya, Hachiko Exit · Search 'Shibuya Scramble Crossing'",
+          "tags": [
+            "free"
+          ],
+          "location": {
+            "name": "Shibuya Scramble Crossing Tokyo",
+            "lat": 35.6595,
+            "lng": 139.7006,
+            "maps_url": "https://maps.google.com/maps?daddr=Shibuya%20Scramble%20Crossing%20Tokyo"
+          }
+        },
+        {
+          "time": "12:30pm",
+          "title": "Lunch — Shibuya food halls",
+          "description": "Basement of Hikarie or Scramble Square. Huge variety, vegetarian options labelled, picky eaters sorted.",
+          "nav": "Scramble Square: connected to Shibuya Station · Hikarie: 3 min walk east · Search 'Shibuya Scramble Square' · Food halls in B2",
+          "tags": [
+            "food"
+          ],
+          "location": {
+            "name": "Shibuya Scramble Square Tokyo",
+            "lat": 35.6581,
+            "lng": 139.7024,
+            "maps_url": "https://maps.google.com/maps?daddr=Shibuya%20Scramble%20Square%20Tokyo"
+          }
+        },
+        {
+          "time": "1:30pm",
+          "title": "Daikanyama + Nakameguro canal walk",
+          "description": "15 min walk south. T-Site bookshop is genuinely beautiful. Drift along the Meguro River. Allow 90 min.",
+          "nav": "Walk 15 min south from Shibuya · OR Tokyu Toyoko → Daikanyama Station · Search 'T-Site Daikanyama' then walk Meguro River toward Nakameguro",
+          "tags": [
+            "free"
+          ],
+          "location": {
+            "name": "T-Site Daikanyama Tokyo",
+            "lat": 35.6494,
+            "lng": 139.7025,
+            "maps_url": "https://maps.google.com/maps?daddr=T-Site%20Daikanyama%20Tokyo"
+          }
+        },
+        {
+          "time": "2:55pm",
+          "title": "Travel to Shiodome — Ghibli Clock",
+          "description": "Get to 2nd floor walkway before 3pm.",
+          "nav": "From Nakameguro: Hibiya line → Kasumigaseki, transfer Toei Oedo → Shiodome · ~25 min · OR Hibiya line → Shimbashi, walk 5 min · Search 'Nippon TV Building Shiodome'",
+          "tags": [
+            "transit"
+          ],
+          "location": {
+            "name": "Nippon TV Building Shiodome Tokyo",
+            "lat": 35.6659,
+            "lng": 139.7604,
+            "maps_url": "https://maps.google.com/maps?daddr=Nippon%20TV%20Building%20Shiodome%20Tokyo"
+          }
+        },
+        {
+          "time": "3:00pm",
+          "title": "Ghibli Clock — Ni-Tele Building",
+          "description": "Designed by Miyazaki. Show just before 3pm — be at 2nd floor outside by 2:55. ~5 min. Free.",
+          "nav": "Shiodome Station, Exit 8 or Shimbashi walk · Search 'Ni-Tele Clock Shiodome' · 2nd floor outdoor walkway of Nippon TV building",
+          "tags": [
+            "free"
+          ],
+          "tips": [
+            "Arrive 2:55pm · 2nd floor walkway · show runs just before 3pm"
+          ],
+          "location": {
+            "name": "Ni-Tele Really Big Clock Shiodome Tokyo",
+            "lat": 35.6659,
+            "lng": 139.7604,
+            "maps_url": "https://maps.google.com/maps?daddr=Ni-Tele%20Really%20Big%20Clock%20Shiodome%20Tokyo"
+          }
+        },
+        {
+          "time": "3:20pm",
+          "title": "Hamarikyu Gardens — optional",
+          "description": "5 min walk from Shiodome. Traditional garden, tea house, ¥300. Good quiet sit before teamLab. Skip if energy is low.",
+          "nav": "5 min walk south from Shiodome · Search 'Hamarikyu Gardens Tokyo' · ¥300 entry",
+          "tags": [
+            "optional"
+          ],
+          "location": {
+            "name": "Hamarikyu Gardens Tokyo",
+            "lat": 35.6601,
+            "lng": 139.7633,
+            "maps_url": "https://maps.google.com/maps?daddr=Hamarikyu%20Gardens%20Tokyo"
+          }
+        },
+        {
+          "time": "4:45pm",
+          "title": "Yurikamome line → Shin-Toyosu",
+          "description": "Shimbashi → Shin-Toyosu on the elevated Yurikamome line. ~25 min. Runs over Rainbow Bridge and Tokyo Bay. Sit left side facing Toyosu.",
+          "nav": "Walk 5 min from Shiodome to Shimbashi Station · Yurikamome line platform · Ride to Shin-Toyosu Station · Sit left side for bay views",
+          "tags": [
+            "transit"
+          ],
+          "tips": [
+            "Sit left side — Rainbow Bridge and bay views"
+          ],
+          "location": null
+        },
+        {
+          "time": "5:15pm",
+          "title": "Ramen at teamLab Planets",
+          "description": "Vegan Ramen UZU on-site — Michelin Green Star restaurant. This is dinner — arrive hungry. 30 min before entry. Plant-based menu, good for vegetarians.",
+          "nav": "Shin-Toyosu Station · 10 min walk · Search 'teamLab Planets Tokyo' · Restaurant at entrance area",
+          "tags": [
+            "food"
+          ],
+          "tips": [
+            "This is dinner — arrive hungry · Vegan Ramen UZU is Michelin Green Star"
+          ],
+          "location": {
+            "name": "teamLab Planets Tokyo Toyosu",
+            "lat": 35.6456,
+            "lng": 139.7836,
+            "maps_url": "https://maps.google.com/maps?daddr=teamLab%20Planets%20Tokyo%20Toyosu"
+          }
+        },
+        {
+          "time": "6:30pm",
+          "title": "teamLab Planets — entry",
+          "description": "90 min inside. Wear rollable trousers — some rooms have water. Lockers provided. No bags in most rooms. Phones allowed.",
+          "nav": "Already at venue · Shin-Toyosu Station, 10 min walk · Search 'teamLab Planets Tokyo DMM'",
+          "tags": [
+            "anchor"
+          ],
+          "tips": [
+            "Booked 6:30pm · wear rollable trousers · socks will get wet · bring a bag for wet items"
+          ],
+          "location": {
+            "name": "teamLab Planets Tokyo DMM",
+            "lat": 35.6456,
+            "lng": 139.7836,
+            "maps_url": "https://maps.google.com/maps?daddr=teamLab%20Planets%20Tokyo%20DMM"
+          }
+        },
+        {
+          "time": "8:00pm",
+          "title": "Head back to Shinjuku",
+          "description": "Yurikamome to Shimbashi, JR Yamanote to Shinjuku. ~40 min.",
+          "nav": "Reverse Yurikamome: Shin-Toyosu → Shimbashi · JR Yamanote → Shinjuku · ~40 min total",
+          "tags": [
+            "transit"
+          ],
+          "location": null,
+          "tips": []
+        }
+      ],
+      "rain_plan": "If heavy rain: skip Meiji/Shibuya/Nakameguro. Tokyo National Museum in Ueno instead (fully indoor, 3–4 hrs). Then Akihabara afternoon. teamLab evening unaffected. Search 'Tokyo National Museum Ueno' — JR Yamanote → Ueno, Park Exit, 10 min walk."
+    },
+    {
+      "day": 3,
+      "date": "Wednesday Jun 10",
+      "theme": "Old Tokyo — Asakusa · Fukagawa Goma · Yanaka · Akihabara · Kanda Myojin · Omoide Yokocho · last night",
+      "slots": [
+        {
+          "time": "7:00am",
+          "title": "Pack Kyoto bags · drop at reception",
+          "description": "Pack all Kyoto bags before leaving. Drop at hotel reception — Yamato Takuhaibin collects by 10am. Keep a day pack only: change of clothes for Hakone day and Kyoto night 1, toiletries, documents. Bags delivered to Kyoto hotel Jun 12.",
+          "nav": "At hotel · ask front desk to arrange Takuhaibin forwarding to Kyoto hotel if not already done · ~¥1,500 per bag",
+          "tags": [
+            "tip"
+          ],
+          "tips": [
+            "Drop at reception before 10am · keep day pack only · bags arrive Kyoto Jun 12"
+          ],
+          "location": {
+            "name": "ACT ONE Japan Shinjuku",
+            "lat": null,
+            "lng": null,
+            "maps_url": "https://maps.google.com/maps?daddr=ACT%20ONE%20Japan%20Shinjuku"
+          }
+        },
+        {
+          "time": "7:30am",
+          "title": "Senso-ji Temple — Asakusa",
+          "description": "Tokyo's oldest temple. Go before 8:30 — tour groups from 9am. Kaminarimon gate, Nakamise Dori shopping street, draw an omikuji fortune. Allow 45 min.",
+          "nav": "Metro Ginza line → Asakusa Station, Exit 1 · 5 min walk · Kaminarimon Gate directly ahead · Search 'Senso-ji Temple Asakusa'",
+          "tags": [
+            "free"
+          ],
+          "tips": [
+            "Go early — very crowded by 9am · covered Nakamise street is rain-friendly"
+          ],
+          "location": {
+            "name": "Senso-ji Temple Asakusa Tokyo",
+            "lat": 35.7148,
+            "lng": 139.7967,
+            "maps_url": "https://maps.google.com/maps?daddr=Senso-ji%20Temple%20Asakusa%20Tokyo"
+          }
+        },
+        {
+          "time": "8:30am",
+          "title": "Breakfast — Asakusa",
+          "description": "Old-school kissaten near the temple. Or ningyo-yaki cake snacks from the Nakamise stalls while walking.",
+          "nav": "Walk from Senso-ji · Search 'kissaten Asakusa' or grab ningyo-yaki from Nakamise stalls",
+          "tags": [
+            "food"
+          ],
+          "location": null
+        },
+        {
+          "time": "9:15am",
+          "title": "Asakusa side streets",
+          "description": "Denpoin-dori for craft shops, pottery, Japanese knives. Slower and more local than Nakamise.",
+          "nav": "Walk from Senso-ji main hall · Denpoin-dori runs parallel to Nakamise on the west side · Search 'Denpoin-dori Asakusa'",
+          "tags": [
+            "free"
+          ],
+          "location": {
+            "name": "Denpoin-dori Asakusa Tokyo",
+            "lat": 35.7155,
+            "lng": 139.7951,
+            "maps_url": "https://maps.google.com/maps?daddr=Denpoin-dori+Asakusa+Tokyo"
+          }
+        },
+        {
+          "time": "10:20am",
+          "title": "Travel to Monzen-Nakacho",
+          "description": "Metro to Fukagawa Fudo-do for the 11am Goma ritual.",
+          "nav": "Metro Ginza line from Asakusa → Nihombashi (14 min) · Transfer to Tozai line → Monzen-Nakacho, Exit 1 · ~20 min total · Search 'Monzen-Nakacho Station'",
+          "tags": [
+            "transit"
+          ],
+          "location": null
+        },
+        {
+          "time": "10:50am",
+          "title": "Fukagawa Fudo-do — Goma fire ritual",
+          "description": "11am ceremony. Remove shoes, enter main hall. Fire, taiko drums, monks chanting 45 min. Unlike anything else on this trip. No photography whatsoever during the ritual.",
+          "nav": "Monzen-Nakacho, Exit 1 · Ninjo Fukagawa Goriyaku-dori approach road immediately visible — 150m path along Eitai-dori leads directly to temple · 2 min walk · Search 'Fukagawa Fudo-do Temple'",
+          "tags": [
+            "anchor",
+            "free"
+          ],
+          "tips": [
+            "11am sharp · no photography · fully indoor"
+          ],
+          "location": {
+            "name": "Fukagawa Fudo-do Temple Tokyo",
+            "lat": 35.6717,
+            "lng": 139.7958,
+            "maps_url": "https://maps.google.com/maps?daddr=Fukagawa%20Fudo-do%20Temple%20Tokyo"
+          }
+        },
+        {
+          "time": "12:00pm",
+          "title": "Tomioka Hachimangu Shrine",
+          "description": "Right next door to Fukagawa Fudo-do. Historic, much less visited. Food stalls on Ninjo Fukagawa Goriyaku Dori.",
+          "nav": "1 min walk from Fukagawa Fudo-do · Search 'Tomioka Hachimangu Shrine Tokyo'",
+          "tags": [
+            "free"
+          ],
+          "location": {
+            "name": "Tomioka Hachimangu Shrine Tokyo",
+            "lat": 35.6714,
+            "lng": 139.7972,
+            "maps_url": "https://maps.google.com/maps?daddr=Tomioka%20Hachimangu%20Shrine%20Tokyo"
+          }
+        },
+        {
+          "time": "12:30pm",
+          "title": "Lunch — Monzen-Nakacho or Kiyosumi-Shirakawa",
+          "description": "Good local izakayas in Monzen-Nakacho. Or 10 min walk to Kiyosumi-Shirakawa — Tokyo's specialty coffee neighbourhood.",
+          "nav": "Near Exit 1 for izakayas · OR walk 10 min west · Search 'Kiyosumi-Shirakawa cafe Tokyo'",
+          "tags": [
+            "food"
+          ],
+          "location": null
+        },
+        {
+          "time": "2:00pm",
+          "title": "Travel to Yanaka",
+          "description": "To Nippori for Yanaka Ginza. Option: transfer to Chiyoda line at Otemachi for Sendagi Station — flatter approach.",
+          "nav": "Option A (stairs): Metro Tozai → Nihombashi, JR Yamanote → Nippori, West Exit · ~25 min · Option B (flat): Tozai → Otemachi, Chiyoda line → Sendagi, Exit 2 · ~25 min · Search 'Yanaka Ginza'",
+          "tags": [
+            "transit"
+          ],
+          "location": null
+        },
+        {
+          "time": "2:30pm",
+          "title": "Yanaka Ginza",
+          "description": "1950s local shopping street. Cat statues, indie shops, snacks. Walk to Yuyake Dandan (Sunset Stairs) for the neighbourhood view. Feels pre-war Tokyo.",
+          "nav": "From Nippori West Exit: turn left, follow slope up, take right fork · ~5 min walk to top of Yuyake Dandan stairs · From Sendagi Exit 2: walk 3 min east, flat approach · Search 'Yanaka Ginza Tokyo'",
+          "tags": [
+            "free"
+          ],
+          "location": {
+            "name": "Yanaka Ginza Tokyo",
+            "lat": 35.7274,
+            "lng": 139.7711,
+            "maps_url": "https://maps.google.com/maps?daddr=Yanaka%20Ginza%20Tokyo"
+          }
+        },
+        {
+          "time": "3:30pm",
+          "title": "Travel to Akihabara",
+          "description": "JR Yamanote one stop south from Nippori.",
+          "nav": "JR Yamanote from Nippori → Akihabara Station · ~10 min · Electric Town Exit (east side)",
+          "tags": [
+            "transit"
+          ],
+          "location": null
+        },
+        {
+          "time": "3:45pm",
+          "title": "Akihabara",
+          "description": "Let the teenagers lead. Super Potato for retro gaming, Yodobashi Camera (7 floors), Don Quijote. Comes alive after dark.",
+          "nav": "Electric Town Exit · Super Potato: search 'Super Potato Akihabara' · Yodobashi: outside station · Don Quijote: search 'Don Quijote Akihabara'",
+          "tags": [],
+          "location": {
+            "name": "Akihabara Electric Town Tokyo",
+            "lat": 35.6984,
+            "lng": 139.7731,
+            "maps_url": "https://maps.google.com/maps?daddr=Akihabara%20Electric%20Town%20Tokyo"
+          }
+        },
+        {
+          "time": "5:30pm",
+          "title": "Kanda Myojin — chinowa purification ring",
+          "description": "7 min walk from Akihabara. Giant cogon grass ring set up all June — walk through it to cleanse the first half of the year. Free, 10 min, genuinely special Shinto ritual.",
+          "nav": "Akihabara Electric Town Exit · Walk north 7 min uphill · OR JR Chuo line → Ochanomizu, 5 min walk · Search '神田明神' or 'Kanda Myojin Shrine' · Chinowa ring in main courtyard · Open 24hrs",
+          "tags": [
+            "free"
+          ],
+          "tips": [
+            "7 min walk north from Electric Town Exit · closer to Ochanomizu Station"
+          ],
+          "location": {
+            "name": "神田明神 Kanda Myojin Shrine Tokyo",
+            "lat": 35.7019,
+            "lng": 139.7678,
+            "maps_url": "https://maps.google.com/maps?daddr=%E7%A5%9E%E7%94%B0%E6%98%8E%E7%A5%9E%20Kanda%20Myojin%20Shrine%20Tokyo"
+          }
+        },
+        {
+          "time": "6:30pm",
+          "title": "Dinner — Akihabara or Shinjuku",
+          "description": "Stay in Akihabara for ramen or izakaya, or head back to Shinjuku. Vegetarian-friendly in both areas.",
+          "nav": "Stay in Akihabara · OR JR Yamanote → Shinjuku ~15 min · Search 'vegetarian ramen Akihabara' or 'izakaya Shinjuku'",
+          "tags": [
+            "food"
+          ],
+          "location": null
+        },
+        {
+          "time": "8:00pm",
+          "title": "Omoide Yokocho — last Tokyo wander",
+          "description": "Memory Lane in Shinjuku — tiny izakayas, smoke, paper lanterns. No cover charge, just walk through. Right next to Shinjuku Station west exit.",
+          "nav": "JR Shinjuku Station West Exit · Immediately to the left · Search 'Omoide Yokocho Shinjuku' · Free to walk through",
+          "tags": [
+            "free"
+          ],
+          "location": {
+            "name": "Omoide Yokocho Shinjuku Tokyo",
+            "lat": 35.6933,
+            "lng": 139.6999,
+            "maps_url": "https://maps.google.com/maps?daddr=Omoide%20Yokocho%20Shinjuku%20Tokyo"
+          }
+        },
+        {
+          "time": "9:30pm",
+          "title": "Hotel — early night",
+          "description": "Early night — Romancecar tomorrow morning from Shinjuku.",
+          "nav": "At hotel · Ask front desk for Takuhaibin forwarding to Kyoto hotel · ~¥1,500 per bag · Bags delivered to Kyoto hotel Jun 12",
+          "tags": [
+            "tip"
+          ],
+          "tips": [
+            "Early night — Romancecar departs Shinjuku ~8:30am tomorrow"
+          ],
+          "location": {
+            "name": "ACT ONE Japan Shinjuku",
+            "lat": null,
+            "lng": null,
+            "maps_url": "https://maps.google.com/maps?daddr=ACT%20ONE%20Japan%20Shinjuku"
+          }
+        }
+      ],
+      "rain_plan": "Mostly rain-resilient. Senso-ji has covered Nakamise walkways. Fukagawa Goma fully indoor. Akihabara largely indoor. Kanda Myojin has covered corridors. Yanaka weak spot — swap for Kappabashi Kitchen Street if heavy rain (covered arcades, between Asakusa and Akihabara). Search 'Kappabashi Kitchen Street Tokyo'.",
+      "notes": "Takuhaibin: drop bags at reception before 10am this morning. Yamato collects during the day, delivers to Kyoto hotel Jun 12. Day pack contents: change of clothes for Hakone + Kyoto night 1, toiletries, documents, Romancecar tickets."
+    }
+  ],
+  "practical": {
+    "hotel": "ACT ONE Japan, 6-11-11 Shinjuku, Shinjuku-ku · Nearest station: Shinjuku-sanchome · 10 min walk from JR Shinjuku Station east exit",
+    "transport": "Suica IC card: load at Haneda on arrival, taps in/out on all trains, buses, taxis, and convenience stores. Google Maps Transit mode gives exact lines, platforms, walking directions.",
+    "food_vegetarians": "Say 'bejitarian desu' or show a dietary card. Vegan Ramen UZU at teamLab is plant-based. Shibuya food halls clearly labelled. Konbini: inari sushi, edamame, tamago onigiri.",
+    "food_konbini": "7-Eleven is best. Must-try: egg salad sandwich, onigiri, chicken karaage, tamagoyaki, nikuman (pork bun). Inari sushi is vegetarian. Hot drinks at register machine.",
+    "cash": "Withdraw yen at 7-Eleven ATMs — accept foreign cards reliably. Have cash for shrine entry fees, street food, small restaurants.",
+    "weather": "Rainy season in June — some rain likely. Carry small umbrellas. 22–28°C, high humidity. Rain plans provided for each day.",
+    "festival": "Sanno Matsuri active Jun 7–17 at Hie Shrine, Akasaka. Jun 8 choir concert at 12:15pm in lower worship hall (下拝殿). Tea ceremony and sweets all day. Free. Metro Marunouchi → Akasaka-mitsuke, 8 min walk.",
+    "takuhaibin": "Forward bags from Tokyo hotel to Kyoto on evening of Jun 10. ~¥1,500 per bag, next-day delivery. Arrange at hotel front desk. Travel light through Hakone on Jun 11."
+  }
+}

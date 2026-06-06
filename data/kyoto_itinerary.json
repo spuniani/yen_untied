@@ -1,0 +1,280 @@
+{
+  "trip": "Kyoto",
+  "dates": "June 12-13, 2026",
+  "hotel": {
+    "name": "Higashiyama Sanjo area",
+    "address": "三条白川橋二筋目下る西入北木之元町532番地4, 京都市東山区 605-0022",
+    "notes": "Near Sanjo Shirakawabashi. Walking distance to Gion, Hanamikoji, Ninenzaka, Sannenzaka. Bus 100 from Higashiyama Sanjo stop is directly outside.",
+    "location": {
+      "name": "Higashiyama Sanjo Kyoto",
+      "lat": 35.0094,
+      "lng": 135.7785,
+      "maps_url": "https://maps.google.com/maps?daddr=Higashiyama+Sanjo+Kyoto"
+    }
+  },
+  "days": [
+    {
+      "date": "Fri Jun 12",
+      "theme": "Fushimi Inari dawn · rest · Kiyomizudera · Higashiyama drift · Hanamikoji at dusk",
+      "slots": [
+        {
+          "time": "6:15am",
+          "title": "Travel to Fushimi Inari",
+          "description": "Walk 5 min to Sanjo-Keihan Station. Keihan line south to Keihan Fushimi-Inari Station (~15 min, ¥240). Walk 5 min east to shrine. Must take a Local or Sub-express train — Limited Express does not stop at Fushimi-Inari Station.",
+          "nav": "Walk from hotel to Sanjo-Keihan Station (~5 min) · Keihan Main Line Local/Sub-express southbound → Fushimi-Inari Station (~15 min) · Walk 5 min east to shrine entrance · Search 'Fushimi Inari Taisha Shrine Kyoto' · Do NOT take Limited Express — it skips Fushimi-Inari Station",
+          "tags": ["transit"],
+          "tips": ["Local or Sub-express only — Limited Express skips this stop · Suica card taps in/out"],
+          "location": {
+            "name": "Fushimi Inari Taisha Shrine Kyoto",
+            "lat": 34.9672,
+            "lng": 135.7728,
+            "maps_url": "https://maps.google.com/maps?daddr=Fushimi+Inari+Taisha+Shrine+Kyoto"
+          }
+        },
+        {
+          "time": "6:30am",
+          "title": "Fushimi Inari Taisha — full climb",
+          "description": "Free entry, open 24hrs. Arrive before 7am — you'll be ahead of virtually everyone. Thousands of vermillion torii gates winding up the mountain. Full climb to the summit and back is ~4km, 2–2.5 hrs. The upper mountain is genuinely quiet even in peak season. Bring water — humid in June.",
+          "nav": "At shrine · main torii gate approach from Keihan Fushimi-Inari Station side · Search 'Fushimi Inari Taisha Kyoto'",
+          "tags": ["free"],
+          "tips": ["Before 7am — virtually nobody there · full climb ~4km, 2-2.5 hrs · bring water"],
+          "location": {
+            "name": "Fushimi Inari Taisha Shrine Kyoto",
+            "lat": 34.9672,
+            "lng": 135.7728,
+            "maps_url": "https://maps.google.com/maps?daddr=Fushimi+Inari+Taisha+Shrine+Kyoto"
+          }
+        },
+        {
+          "time": "9:00am",
+          "title": "Return to hotel",
+          "description": "Keihan Fushimi-Inari Station back to Sanjo-Keihan (~15 min). Walk back to hotel. Shower, rest, proper breakfast.",
+          "nav": "Keihan Local/Sub-express northbound from Fushimi-Inari Station → Sanjo-Keihan (~15 min) · Walk 5 min to hotel",
+          "tags": ["transit"],
+          "location": null
+        },
+        {
+          "time": "9:30am",
+          "title": "Breakfast + rest — hotel area",
+          "description": "Proper sit-down breakfast after the climb. Higashiyama has good kissaten and cafes. Allow 2 hours to recover before the afternoon.",
+          "nav": "Walk from hotel · Search 'kissaten Higashiyama Kyoto' or ask hotel staff",
+          "tags": ["food"],
+          "tips": ["Rest properly — 2-2.5 hr mountain climb done · long afternoon ahead"],
+          "location": null
+        },
+        {
+          "time": "1:00pm",
+          "title": "Lunch — Higashiyama neighbourhood",
+          "description": "Wander from the hotel. Tofu and yuba (tofu skin) are Kyoto's local specialty — great for vegetarians. Plenty of casual spots in the lanes around Sanjo and Shirakawa canal.",
+          "nav": "Walk from hotel · Sanjo-dori and Shirakawa canal area has good options · Search 'tofu restaurant Higashiyama Kyoto'",
+          "tags": ["food"],
+          "tips": ["Tofu and yuba are Kyoto specialties — great for vegetarians"],
+          "location": null
+        },
+        {
+          "time": "2:45pm",
+          "title": "Bus to Kiyomizudera",
+          "description": "Bus 100 from Higashiyama Sanjo bus stop — directly outside the hotel area. Get off at Gojozaka (2 stops, ~5 min, ¥230). Then 10 min uphill walk to the temple. Note: during tourist season Gojozaka A stop may be closed — use Kiyomizumichi D stop on the north side instead.",
+          "nav": "Bus 100 from Higashiyama Sanjo bus stop (outside hotel) · Get off at Gojozaka bus stop · 10 min uphill walk to temple · Suica taps on the bus · Search 'Kiyomizudera Temple Kyoto'",
+          "tags": ["transit"],
+          "tips": ["Bus 100 · ¥230 · Suica accepted · Gojozaka stop may be closed in tourist season — use Kiyomizumichi D stop instead"],
+          "location": {
+            "name": "Kiyomizudera Temple Kyoto",
+            "lat": 34.9949,
+            "lng": 135.785,
+            "maps_url": "https://maps.google.com/maps?daddr=Kiyomizudera+Temple+Kyoto"
+          }
+        },
+        {
+          "time": "3:00pm",
+          "title": "Kiyomizudera Temple",
+          "description": "The famous clifftop wooden stage, valley views over Kyoto, three-storey pagoda. ¥500 entry. Allow 45–60 min inside. The approach lanes are worth browsing. Closes 6pm — leave the temple by 4pm to allow 2 hours for the downhill drift to Gion.",
+          "nav": "At temple · ¥500 entry at gate · Search 'Kiyomizudera Temple Kyoto'",
+          "tags": [],
+          "tips": ["¥500 entry · leave by 4pm · temple closes 6pm"],
+          "location": {
+            "name": "Kiyomizudera Temple Kyoto",
+            "lat": 34.9949,
+            "lng": 135.785,
+            "maps_url": "https://maps.google.com/maps?daddr=Kiyomizudera+Temple+Kyoto"
+          }
+        },
+        {
+          "time": "4:00pm",
+          "title": "Downhill drift — Higashiyama lanes",
+          "description": "The best walk in Kyoto. Exit Kiyomizudera and drift downhill through: Sannenzaka (stone-paved, traditional shops) → Ninenzaka → Yasaka Pagoda (great photo stop) → Nene's Road → Kodaiji Temple gardens → Maruyama Park. Leisurely 2 hours, no agenda. Let people stop, browse, snack.",
+          "nav": "Exit Kiyomizudera main gate · follow Sannenzaka downhill · Search 'Sannenzaka Kyoto' to orient · natural flow leads to Yasaka Pagoda then Hanamikoji",
+          "tags": ["free"],
+          "tips": ["Most scenic walk in Kyoto · no rush · 2 hrs to Gion"],
+          "location": {
+            "name": "Sannenzaka Kyoto",
+            "lat": 34.9988,
+            "lng": 135.7824,
+            "maps_url": "https://maps.google.com/maps?daddr=Sannenzaka+Kyoto"
+          }
+        },
+        {
+          "time": "6:00pm",
+          "title": "Hanamikoji-dori — Gion at dusk",
+          "description": "The iconic geisha district street. Lanterns lit, ochaya teahouses glowing, occasional maiko in kimono. Walk slowly — this is an atmosphere, not a destination. Shirakawa canal nearby is equally beautiful at this hour. Hotel is a short walk from here.",
+          "nav": "Natural flow from Higashiyama drift · Hanamikoji runs north-south in Gion · Search 'Hanamikoji Street Gion Kyoto' · Shirakawa canal is a 5 min walk north",
+          "tags": ["free"],
+          "tips": ["Lanterns light up ~6:30pm · no photography of maiko without permission · hotel is a 10 min walk"],
+          "location": {
+            "name": "Hanamikoji Street Gion Kyoto",
+            "lat": 35.0036,
+            "lng": 135.7756,
+            "maps_url": "https://maps.google.com/maps?daddr=Hanamikoji+Street+Gion+Kyoto"
+          }
+        },
+        {
+          "time": "7:30pm",
+          "title": "Dinner — Gion / Higashiyama",
+          "description": "Your hotel neighbourhood has excellent dinner options. Izakayas on Shirakawa canal, yudofu tofu restaurants, ramen, casual Kyoto cuisine all within a short walk. No need to book — wander and find something. Walk home after.",
+          "nav": "Walk from Hanamikoji toward hotel · Shirakawa canal area has izakayas and restaurants · Search 'restaurant Higashiyama Kyoto'",
+          "tags": ["food"],
+          "tips": ["Walk home to hotel after dinner · early night — big day tomorrow"],
+          "location": null
+        }
+      ],
+      "rain_plan": "Fushimi Inari is atmospheric in light rain — torii gates in mist are genuinely beautiful, bring ponchos. Kiyomizudera and the Higashiyama lane drift are manageable in light rain — the stone lanes and shopfronts give some cover. If it's a heavy washout, skip Fushimi Inari and do Nijo Castle in the morning instead, then Kiyomizudera and Gion in the afternoon."
+    },
+    {
+      "date": "Sat Jun 13",
+      "theme": "Kurama hike · Kibune kawadoko lunch · Nijo Castle · early night before Hiroshima",
+      "slots": [
+        {
+          "time": "8:00am",
+          "title": "Breakfast — hotel area",
+          "description": "Good breakfast before the hike. Eat well — this is a 2–3 hr mountain trail.",
+          "nav": "Walk from hotel · kissaten or cafe near hotel · Search 'breakfast Higashiyama Kyoto'",
+          "tags": ["food"],
+          "tips": ["Eat well — hike ahead · protein and carbs"],
+          "location": null
+        },
+        {
+          "time": "8:45am",
+          "title": "Travel to Demachiyanagi — Kurama",
+          "description": "Walk 5 min to Sanjo-Keihan Station. Keihan line one stop north to Demachiyanagi (~5 min). Then Eizan Kurama Line from Demachiyanagi to Kurama Station — 30 min scenic ride through the northern Kyoto hills. Get on the Kurama-bound train (not Eizan Main Line). ¥430 each way, not covered by Suica on some services — check at the machine.",
+          "nav": "Walk from hotel to Sanjo-Keihan Station (~5 min) · Keihan line 1 stop north → Demachiyanagi Station · Transfer to Eizan Railway Kurama Line → Kurama Station (last stop, 30 min) · ¥430 · Search 'Kurama Station Kyoto'",
+          "tags": ["transit"],
+          "tips": ["Eizan Railway ¥430 each way · board Kurama-bound train not Main Line · scenic 30 min ride"],
+          "location": {
+            "name": "Kurama Station Kyoto",
+            "lat": 35.1147,
+            "lng": 135.7699,
+            "maps_url": "https://maps.google.com/maps?daddr=Kurama+Station+Kyoto"
+          }
+        },
+        {
+          "time": "9:30am",
+          "title": "Kurama — Kurama-dera Temple",
+          "description": "Short walk from the station — Tengu statue marks the trailhead. Take the cable car up to the temple (¥200) to save legs for the forest trail. The temple complex is spread across the mountainside — ancient cedar forest, spiritual atmosphere.",
+          "nav": "Exit Kurama Station · Tengu statue and trailhead immediately ahead · cable car ¥200 up to temple · Search 'Kurama-dera Temple Kyoto'",
+          "tags": [],
+          "tips": ["Cable car ¥200 — saves legs for the hike · temple entry ¥300 includes cable car"],
+          "location": {
+            "name": "Kurama-dera Temple Kyoto",
+            "lat": 35.1131,
+            "lng": 135.7709,
+            "maps_url": "https://maps.google.com/maps?daddr=Kurama-dera+Temple+Kyoto"
+          }
+        },
+        {
+          "time": "10:30am",
+          "title": "Kurama → Kibune hike",
+          "description": "3.9km trail through ancient cedar forest, over 40 shrines along the route, Giant Sugi tree, Okunoin inner sanctum. Easy-moderate. 2–2.5 hrs at a relaxed group pace. June = lush green forest. Trail is well-marked. Always hike Kurama to Kibune — the ascent is more gradual this way.",
+          "nav": "Follow trail markers from Kurama-dera toward Kibune · trail is well-marked in Japanese and English · ends near Kibune Shrine · Search 'Kurama to Kibune hiking trail'",
+          "tags": ["free"],
+          "tips": ["Wear proper shoes · bring water · June = lush green · trail well-marked · Kurama→Kibune direction only"],
+          "location": {
+            "name": "Kurama to Kibune Hiking Trail Kyoto",
+            "lat": 35.1131,
+            "lng": 135.7709,
+            "maps_url": "https://maps.google.com/maps?daddr=Kurama+to+Kibune+Hiking+Trail+Kyoto"
+          }
+        },
+        {
+          "time": "1:00pm",
+          "title": "Lunch — Kibune kawadoko riverside dining",
+          "description": "Tables built directly over the Kibune River — so close you can almost touch the water. June is the start of kawadoko season, noticeably cooler than central Kyoto. Non-vegetarians: book a riverside kaiseki or ayu (river fish) restaurant in advance for 8 people. Vegetarians: Kokon Fujiya café has matcha soba and inari sushi on a kawadoko terrace (¥550 cover + food).",
+          "nav": "Trail exits near Kibune village · riverside restaurants line the main street · Search 'Kibune kawadoko restaurant Kyoto' · Kokon Fujiya for vegetarians",
+          "tags": ["food"],
+          "tips": ["Book main kawadoko restaurant in advance for 8 · last bus from Kibune area 6pm · Kokon Fujiya for vegetarians"],
+          "location": {
+            "name": "Kibune Village Kawadoko Kyoto",
+            "lat": 35.1223,
+            "lng": 135.7624,
+            "maps_url": "https://maps.google.com/maps?daddr=Kibune+Village+Kyoto"
+          }
+        },
+        {
+          "time": "2:30pm",
+          "title": "Kibune → Demachiyanagi → Nijo Castle",
+          "description": "Walk 2km downhill from Kibune to Kibuneguchi Station (or take bus 33 from Kibune Shrine). Eizan line back to Demachiyanagi (~30 min). Then Keihan line one stop south to Sanjo-Keihan, walk 2 min to Sanjo-Keihan subway station, Tozai line west 3 stops to Nijojo-mae Station (~15 min). Nijo Castle entrance is a short walk from the station.",
+          "nav": "Walk 2km down to Kibuneguchi Station (or bus 33 ¥200) · Eizan line → Demachiyanagi (~30 min) · Keihan 1 stop south → Sanjo-Keihan · walk 2 min underground → Sanjo-Keihan Subway · Tozai line west 3 stops → Nijojo-mae Station · Search 'Nijo Castle Kyoto'",
+          "tags": ["transit"],
+          "tips": ["Last bus from Kibune 6pm — plenty of time · total transit ~50 min · Suica throughout"],
+          "location": {
+            "name": "Nijo Castle Kyoto",
+            "lat": 35.0142,
+            "lng": 135.7475,
+            "maps_url": "https://maps.google.com/maps?daddr=Nijo+Castle+Kyoto"
+          }
+        },
+        {
+          "time": "3:30pm",
+          "title": "Nijo Castle",
+          "description": "Former shogun's palace — the famous nightingale floors squeak with every step (designed to detect intruders). Ninomaru Palace interior is extraordinary. Beautiful Ninomaru garden. Allow 90 min. ¥800 entry + ¥500 for Ninomaru Palace = ¥1,300 total. Last entry 4pm, closes 5pm.",
+          "nav": "Nijojo-mae Station · short walk to castle entrance · entrance faces Horikawa-dori Street · Search 'Nijo Castle Kyoto'",
+          "tags": [],
+          "tips": ["¥800 entry + ¥500 Ninomaru Palace · last entry 4pm · closes 5pm · audio guide ¥520"],
+          "location": {
+            "name": "Nijo Castle Kyoto",
+            "lat": 35.0142,
+            "lng": 135.7475,
+            "maps_url": "https://maps.google.com/maps?daddr=Nijo+Castle+Kyoto"
+          }
+        },
+        {
+          "time": "5:00pm",
+          "title": "Return to hotel",
+          "description": "Tozai subway line east from Nijojo-mae → Higashiyama Station (7 min, ¥210). 5 min walk to hotel.",
+          "nav": "Nijojo-mae Station · Tozai line east → Higashiyama Station (7 min) · 5 min walk to hotel · Search 'Higashiyama Station Kyoto'",
+          "tags": ["transit"],
+          "location": null
+        },
+        {
+          "time": "6:00pm",
+          "title": "Dinner — hotel neighbourhood",
+          "description": "Easy and close. Ramen, izakaya, or yudofu tofu restaurant near the hotel. Early night — Hiroshima is a full day tomorrow and requires an early Shinkansen.",
+          "nav": "Walk from hotel · Search 'izakaya Higashiyama Kyoto' or 'ramen Sanjo Kyoto'",
+          "tags": ["food"],
+          "tips": ["Early night — Hiroshima Shinkansen tomorrow morning · pack tonight"],
+          "location": null
+        },
+        {
+          "time": "8:00pm",
+          "title": "Pack + early night",
+          "description": "Pack tonight for Hiroshima. Both families together until the split at Hiroshima in the evening. Make sure everyone has what they need. Early night — full Hiroshima day tomorrow.",
+          "nav": "At hotel",
+          "tags": ["tip"],
+          "tips": ["Pack tonight · Hiroshima early tomorrow · both families split at Hiroshima evening"],
+          "location": null
+        }
+      ],
+      "rain_plan": "Kurama hike in light rain is fine — cedar forest gives good cover and the atmosphere is magical in mist, bring ponchos. Kibune kawadoko restaurants have covered seating options. If heavy washout, skip the hike and replace with Nishiki Market in the morning (fully covered market street, central Kyoto, 10 min walk from Nijo Castle). Do Nijo Castle in the afternoon as planned.",
+      "notes": "Book ahead: Kibune kawadoko restaurant for 8 people — popular in June, fills up fast. Book as soon as possible. Nijo Castle last entry is 4pm sharp. Eizan Railway: ¥430 each way Demachiyanagi↔Kurama."
+    }
+  ],
+  "practical": {
+    "hotel": "Higashiyama Sanjo area, Kyoto. Bus 100 stop (Higashiyama Sanjo) directly outside. 5 min walk to Sanjo-Keihan Station (Keihan line). 10 min walk to Gion and Hanamikoji.",
+    "transport": "Suica IC card works on Keihan line, Kyoto City buses, and Tozai subway. Eizan Railway to Kurama: ¥430, check if Suica accepted at machine. Google Maps Transit mode works well in Kyoto.",
+    "food_vegetarians": "Tofu and yuba (tofu skin) are Kyoto specialties — widely available and excellent. Shojin ryori (Buddhist temple cuisine) is fully plant-based. Kibune: Kokon Fujiya café for kawadoko without fish. Say 'bejitarian desu' or show a dietary card.",
+    "food_picky_eaters": "Ramen (shoyu or shio broth), karaage, katsu curry all widely available. Nijo Castle area and Gion both have accessible options. Kibune: kawadoko pizza-style restaurants also exist.",
+    "fushimi_inari": "Free entry, open 24hrs. Go before 7am for almost no crowds. Full climb ~4km, 2-2.5 hrs. Keihan line from Sanjo-Keihan to Fushimi-Inari Station (Local or Sub-express only — Limited Express skips this stop). ¥240 each way.",
+    "kurama_kibune": "Eizan Railway from Demachiyanagi to Kurama ¥430. Always hike Kurama→Kibune (easier ascent). Trail 3.9km, 2-2.5 hrs, easy-moderate. After lunch walk 2km to Kibuneguchi Station. Last bus from Kibune area: 6pm.",
+    "nijo_castle": "¥800 entry + ¥500 Ninomaru Palace = ¥1,300 total. Last entry 4pm, closes 5pm. Nijojo-mae Station on Tozai line. From Demachiyanagi: Keihan→Sanjo-Keihan, walk to Sanjo-Keihan Subway, Tozai line 3 stops west.",
+    "hiroshima": "Day 14 morning: early Shinkansen from Kyoto Station to Hiroshima ~1 hr. Pack tonight. Both families travel together — split happens at Hiroshima in the evening. Rathi family return to Tokyo, Puniani family continue to Osaka."
+  }
+}

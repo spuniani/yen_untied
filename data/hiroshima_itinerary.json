@@ -1,0 +1,199 @@
+{
+  "trip": "Hiroshima + Miyajima",
+  "dates": "Sunday Jun 14, 2026",
+  "notes": "Both families together. Families split in the evening — Rathi family return to Tokyo (fly SFO Jun 15), Puniani family continue to Osaka. Peace Museum left flexible for Day 15 morning — whoever has time before departing Hiroshima.",
+  "days": [
+    {
+      "date": "Sun Jun 14",
+      "theme": "Miyajima — floating torii · Mt Misen full hike · families split",
+      "slots": [
+        {
+          "time": "8:00am",
+          "title": "Shinkansen Kyoto → Hiroshima",
+          "description": "Tokaido/Sanyo Shinkansen from Kyoto Station to Hiroshima. ~55 min on Nozomi, ~1hr 15 on Hikari. Nozomi is fastest but not covered by JR Pass — either is fine on Suica. Eat breakfast on the train or at Kyoto Station before boarding.",
+          "nav": "Kyoto Station · Shinkansen platforms (numbered gates) · Sanyo Shinkansen toward Hiroshima · Search 'Hiroshima Station'",
+          "tags": ["transit"],
+          "tips": ["~55 min on Nozomi · ~1hr 15 on Hikari · buy ekiben at Kyoto Station if not had breakfast"],
+          "location": {
+            "name": "Hiroshima Station",
+            "lat": 34.3989,
+            "lng": 132.4754,
+            "maps_url": "https://maps.google.com/maps?daddr=Hiroshima+Station"
+          }
+        },
+        {
+          "time": "9:15am",
+          "title": "Arrive Hiroshima · travel to Miyajimaguchi",
+          "description": "JR Sanyo Line from Hiroshima Station to Miyajimaguchi Station (~25 min, ¥410). Walk 5 min to ferry pier. Ferries run every 15 min from 6:25am. 10-min crossing to Miyajima. ¥200 per person (includes ¥100 visitor tax). JR ferry available but Matsudai Kisen ferry also fine.",
+          "nav": "Hiroshima Station · JR Sanyo Line platform → Miyajimaguchi Station (~25 min) · Walk 5 min to ferry pier · Suica taps throughout · Search 'Miyajimaguchi Ferry Terminal'",
+          "tags": ["transit"],
+          "tips": ["JR Sanyo Line ¥410 · ferry ¥200 every 15 min · Suica accepted"],
+          "location": {
+            "name": "Miyajimaguchi Ferry Terminal Hiroshima",
+            "lat": 34.2952,
+            "lng": 132.3199,
+            "maps_url": "https://maps.google.com/maps?daddr=Miyajimaguchi+Ferry+Terminal+Hiroshima"
+          }
+        },
+        {
+          "time": "10:00am",
+          "title": "Arrive Miyajima — floating torii + Itsukushima Shrine",
+          "description": "10-min ferry crossing. Arrive at Miyajima ferry terminal. Walk 10 min to Itsukushima Shrine and the floating torii gate. Check the tide times before visiting — the torii is most dramatic at high tide (fully floating) or low tide (walk up to it). Deer roam freely around the island.",
+          "nav": "Ferry to Miyajima terminal · 10 min walk along the waterfront to Itsukushima Shrine · Search 'Itsukushima Shrine Miyajima' · floating torii is visible from the ferry approach",
+          "tags": ["free"],
+          "tips": ["Check tide times before the day — torii most dramatic at high tide · deer everywhere · ¥300 entry to Itsukushima Shrine"],
+          "location": {
+            "name": "Itsukushima Shrine Miyajima",
+            "lat": 34.2958,
+            "lng": 132.3199,
+            "maps_url": "https://maps.google.com/maps?daddr=Itsukushima+Shrine+Miyajima"
+          }
+        },
+        {
+          "time": "11:00am",
+          "title": "Omotesando Street — snack + supplies",
+          "description": "Main shopping street from ferry terminal. Pick up water, snacks for the hike. Famous for momiji manju (maple leaf cakes — Miyajima's signature snack). Oysters grilled on the street if anyone wants a taste. Get a tourist map at the ferry terminal.",
+          "nav": "Walk from Itsukushima Shrine back toward ferry terminal · Omotesando Street runs parallel to the waterfront · Search 'Omotesando Street Miyajima'",
+          "tags": ["food"],
+          "tips": ["Buy water for the hike here · momiji manju are the local snack · get a trail map at the ferry terminal"],
+          "location": {
+            "name": "Omotesando Street Miyajima",
+            "lat": 34.2968,
+            "lng": 132.3213,
+            "maps_url": "https://maps.google.com/maps?daddr=Omotesando+Street+Miyajima"
+          }
+        },
+        {
+          "time": "11:30am",
+          "title": "Travel to Daisho-in trailhead",
+          "description": "25-30 min walk from the ferry terminal to Daisho-in trailhead, passing the shrine and Daisho-in Temple. Or take the free shuttle to Momijidani ropeway station (every 20 min from 9:50am) if using ropeway. For the full hike: Daisho-in Course is recommended — best views, least steep, ~1.5-2 hrs to summit.",
+          "nav": "Walk from Omotesando past Itsukushima Shrine south toward Daisho-in Temple · Search 'Daisho-in Temple Miyajima' · trailhead is just past the temple",
+          "tags": ["transit"],
+          "tips": ["Daisho-in Course recommended — best views, least steep · ~25-30 min walk from ferry terminal to trailhead"],
+          "location": {
+            "name": "Daisho-in Temple Miyajima",
+            "lat": 34.2912,
+            "lng": 132.3195,
+            "maps_url": "https://maps.google.com/maps?daddr=Daisho-in+Temple+Miyajima"
+          }
+        },
+        {
+          "time": "12:00pm",
+          "title": "Mt Misen — full hike to summit",
+          "description": "Daisho-in Course to summit: ~1.5-2 hrs up, 535m peak. Ancient cedar forest, large boulders, sacred sites along the way. At the summit: 360-degree views of Seto Inland Sea, Reikado Hall with the 1,200-year eternal flame (same flame used to light Hiroshima's Flame of Peace). Wear proper shoes — steep in places, over 2,000 stone steps on Daisho-in descent. Bring water. No food at summit — bring snacks.",
+          "nav": "Follow Daisho-in Course trail markers from Daisho-in Temple · trail is well-marked · summit ~1.5-2 hrs · Search 'Mt Misen Summit Miyajima'",
+          "tags": [],
+          "tips": ["Proper shoes essential · bring water and snacks · 1.5-2 hrs up · summit has toilets and vending machines · start descent by 3pm"],
+          "location": {
+            "name": "Mt Misen Summit Miyajima",
+            "lat": 34.2847,
+            "lng": 132.3187,
+            "maps_url": "https://maps.google.com/maps?daddr=Mt+Misen+Summit+Miyajima"
+          }
+        },
+        {
+          "time": "2:00pm",
+          "title": "Summit — views + Reikado Hall",
+          "description": "Allow 30-45 min at the top. 360-degree views of Seto Inland Sea on clear days — Hiroshima city visible in the distance. Visit Reikado Hall (the eternal flame), Misen Hondo (main hall), Kuguri Iwa (large rock with a hole said to grant wishes). Ropeway down is an option from Shishi-iwa Observatory (~30 min walk from summit) — last down 4:30pm.",
+          "nav": "At summit · Shishi-iwa Observatory is 30 min walk for ropeway down · ropeway last descent 4:30pm · Search 'Mt Misen Ropeway Miyajima'",
+          "tags": [],
+          "tips": ["Ropeway down: ¥1,100 one way · last descent 4:30pm · or hike down ~1.5 hrs · start descent by 3pm for safety"],
+          "location": {
+            "name": "Mt Misen Summit Miyajima",
+            "lat": 34.2847,
+            "lng": 132.3187,
+            "maps_url": "https://maps.google.com/maps?daddr=Mt+Misen+Summit+Miyajima"
+          }
+        },
+        {
+          "time": "3:00pm",
+          "title": "Descend Mt Misen",
+          "description": "Either hike down Momijidani Course (~1.5 hrs, through maple forest) or take ropeway down from Shishi-iwa Observatory (30 min walk from summit, 20-min ropeway, ¥1,100). Ropeway last descent 4:30pm — if cutting it close, take the ropeway. Tired legs after the Kurama hike yesterday — ropeway is sensible.",
+          "nav": "From summit: hike Momijidani Course down OR walk 30 min to Shishi-iwa for ropeway · ropeway → Momijidani Station → 10 min walk to ferry terminal area · Search 'Miyajima Ropeway Station'",
+          "tags": [],
+          "tips": ["Ropeway recommended if tired · ¥1,100 · last descent 4:30pm · don't miss it"],
+          "location": {
+            "name": "Miyajima Ropeway Momijidani Station",
+            "lat": 34.2924,
+            "lng": 132.3228,
+            "maps_url": "https://maps.google.com/maps?daddr=Miyajima+Ropeway+Momijidani+Station"
+          }
+        },
+        {
+          "time": "4:30pm",
+          "title": "Back in town — rest + late lunch/snack",
+          "description": "Back at Miyajima town level. Rest legs, grab food. Oysters are Miyajima's other signature — grilled on the street or in restaurants. Plenty of options near the ferry terminal. Vegetarians: grilled rice balls, tofu dishes, tempura vegetable sets.",
+          "nav": "Near ferry terminal and Omotesando Street · Search 'restaurant Miyajima Island'",
+          "tags": ["food"],
+          "tips": ["Oysters are the local speciality · grilled on the street · vegetarians: grilled rice balls and tempura available"],
+          "location": null
+        },
+        {
+          "time": "5:30pm",
+          "title": "Floating torii at dusk",
+          "description": "Return to the torii gate area for the golden hour and dusk. Completely different atmosphere from the morning — light is soft, crowds thinner, the torii glows. Check tide for best effect. Walk along the waterfront around Itsukushima Shrine. This is the image of Miyajima you'll remember.",
+          "nav": "Walk from restaurant area back to Itsukushima Shrine waterfront · Search 'Itsukushima Shrine floating torii Miyajima' · sunset ~7pm in June",
+          "tags": ["free"],
+          "tips": ["Golden hour starts ~6pm · crowds thinner than morning · torii most photogenic at dusk"],
+          "location": {
+            "name": "Itsukushima Shrine floating torii Miyajima",
+            "lat": 34.2958,
+            "lng": 132.3199,
+            "maps_url": "https://maps.google.com/maps?daddr=Itsukushima+Shrine+floating+torii+Miyajima"
+          }
+        },
+        {
+          "time": "7:00pm",
+          "title": "Ferry back to Miyajimaguchi — families split",
+          "description": "Last ferries run late into the evening. Take the ferry back to Miyajimaguchi (~10 min). From here the families go different ways. This is the split point.",
+          "nav": "Walk to Miyajima ferry terminal · ferry every 15 min to Miyajimaguchi · Search 'Miyajima Ferry Terminal'",
+          "tags": ["transit"],
+          "tips": ["Ferries run until ~10pm · last JR ferry check timetable on the day"],
+          "location": {
+            "name": "Miyajima Ferry Terminal",
+            "lat": 34.2979,
+            "lng": 132.3231,
+            "maps_url": "https://maps.google.com/maps?daddr=Miyajima+Ferry+Terminal"
+          }
+        },
+        {
+          "time": "7:30pm",
+          "title": "Rathi family — Hiroshima → Tokyo",
+          "description": "JR Sanyo Line from Miyajimaguchi → Hiroshima Station (~25 min). Shinkansen Hiroshima → Tokyo (~4 hrs). Fly SFO Jun 15 from Haneda.",
+          "nav": "Miyajimaguchi Station · JR Sanyo Line → Hiroshima Station · Shinkansen Tokyo direction · Search 'Hiroshima Station Shinkansen'",
+          "tags": ["transit"],
+          "tips": ["Book Shinkansen Hiroshima→Tokyo in advance · ~4 hrs · arrive Tokyo late evening"],
+          "location": {
+            "name": "Hiroshima Station Shinkansen",
+            "lat": 34.3989,
+            "lng": 132.4754,
+            "maps_url": "https://maps.google.com/maps?daddr=Hiroshima+Station"
+          }
+        },
+        {
+          "time": "7:30pm",
+          "title": "Puniani family — Hiroshima → Osaka",
+          "description": "JR Sanyo Line from Miyajimaguchi → Hiroshima Station (~25 min). Shinkansen Hiroshima → Shin-Osaka (~1 hr 15 min). Check in to Namba/Dotonbori apartment. Jun 15 morning: Peace Museum is a 30-min walk or tram from Hiroshima Station — if time allows before departing, do it then.",
+          "nav": "Miyajimaguchi Station · JR Sanyo Line → Hiroshima Station · Shinkansen Osaka direction → Shin-Osaka · Search 'Shin-Osaka Station'",
+          "tags": ["transit"],
+          "tips": ["~1hr 15 to Shin-Osaka · Namba/Dotonbori apartment waiting · Peace Museum Jun 15 morning if desired"],
+          "location": {
+            "name": "Shin-Osaka Station",
+            "lat": 34.7334,
+            "lng": 135.5001,
+            "maps_url": "https://maps.google.com/maps?daddr=Shin-Osaka+Station"
+          }
+        }
+      ],
+      "rain_plan": "Miyajima and Mt Misen are outdoors — light rain is manageable with ponchos and adds atmosphere. If heavy rain makes the hike unsafe, skip Mt Misen and spend more time at Itsukushima Shrine, Daisho-in Temple, and the island town instead. The Peace Museum in Hiroshima city is fully indoors and works well as an alternative anchor if Miyajima is a washout.",
+      "notes": "Tide times: check Miyajima tide chart for Jun 14 before the day — plan torii visits around high/low tide for best effect. Okonomimura (Hiroshima-style okonomiyaki building, 6 floors of restaurants) is near Hiroshima Station — good for a quick lunch option if spending time in Hiroshima city rather than going straight to Miyajima. Vegetarian note: Okonomimura can make vegetarian okonomiyaki on request. Peace Museum: open 8:30am-6pm, ¥200 adults. Allow minimum 2 hours — don't rush it."
+    }
+  ],
+  "practical": {
+    "transport": "Suica works throughout. Kyoto→Hiroshima Shinkansen ~55 min (Nozomi) or ~1hr 15 (Hikari). Hiroshima→Miyajimaguchi JR Sanyo Line ~25 min ¥410. Ferry Miyajimaguchi→Miyajima ~10 min ¥200 every 15 min.",
+    "mt_misen": "Three trails: Daisho-in Course (best views, recommended), Momijidani Course (shortest, steepest), Omoto Course (longest). All ~1.5-2 hrs to summit. Ropeway alternative: ¥1,100 one way, ¥2,000 return, operates 9am-4pm (last down 4:30pm). Wear proper shoes. Bring water — no food at summit.",
+    "food_vegetarians": "Miyajima: grilled rice balls, tempura vegetable sets, tofu dishes available. Okonomimura Hiroshima: vegetarian okonomiyaki available on request. Peace Museum area: cafes near the park.",
+    "families_split": "Split point is Miyajimaguchi after the ferry back from Miyajima. Rathi: JR Sanyo→Hiroshima→Shinkansen Tokyo (~4 hrs). Puniani: JR Sanyo→Hiroshima→Shinkansen Osaka (~1hr 15). Peace Museum available Jun 15 morning for whoever has time before departing Hiroshima.",
+    "peace_museum": "Hiroshima Peace Memorial Museum: open 8:30am-6pm, ¥200 adults. 10 min walk from Hiroshima Station or tram stop Genbaku Dome-mae. Allow minimum 2 hours. Jun 15 morning option for both families before departing."
+  }
+}
