@@ -458,7 +458,7 @@ function initSwipe() {
 
 async function init() {
   render();
-  await Promise.all(LEGS.map(l => loadLeg(l.id)));
+  await Promise.allSettled(LEGS.map(l => loadLeg(l.id)));
   state.view = 'home';
   render();
 }
