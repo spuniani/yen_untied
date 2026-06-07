@@ -1,5 +1,6 @@
 const LEGS = [
   { id: 'tokyo', file: 'data/tokyo_itinerary.json' },
+  { id: 'hakone', file: 'data/hakone_itinerary.json' },
   { id: 'kyoto', file: 'data/kyoto_itinerary.json' },
   { id: 'hiroshima', file: 'data/hiroshima_itinerary.json' },
 ];
