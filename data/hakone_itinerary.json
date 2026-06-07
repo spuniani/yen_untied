@@ -1,0 +1,209 @@
+{
+  "trip": "Hakone Day Trip + Travel to Kyoto",
+  "dates": "Thursday Jun 11, 2026",
+  "notes": "Day packs only — Kyoto bags already forwarded via Takuhaibin from Tokyo hotel. Bags waiting at Kyoto hotel on arrival Jun 12. Hakone Freepass (¥7,100 from Shinjuku) and Romancecar Limited Express ticket (~¥1,100) are separate purchases — both on EMot or at Shinjuku Odakyu ticket counter. Romancecar: EXE10, Car 2 or 3, C/D seats (right side for Mt Fuji views), two consecutive rows turned to face each other. Cancellation fee ¥220/person.",
+  "checkpoint": {
+    "description": "2-3 days before Jun 11 (around Jun 8-9), check all three before deciding to go:",
+    "items": [
+      "Owakudani ropeway open? → hakonerw.co.jp",
+      "Weather forecast — full washout?",
+      "Romancecar seats available? → EMot Online Tickets (web-odakyu.com)"
+    ],
+    "plan_b": "If all 3 are red: skip Hakone, take early Shinkansen to Kyoto and gain a half-day there instead."
+  },
+  "days": [
+    {
+      "date": "Thu Jun 11",
+      "theme": "Romancecar → Hakone reverse route → Owakudani → Open Air Museum → lunch → Odawara → Shinkansen to Kyoto",
+      "slots": [
+        {
+          "time": "7:30am",
+          "title": "Checkout · day packs only",
+          "description": "Kyoto bags already at hotel reception from last night. Check out with day packs only. Quick breakfast at hotel or nearby before heading to Shinjuku Station.",
+          "nav": "At hotel · walk to Shinjuku Station (~10 min from ACT ONE Japan) · Search 'Shinjuku Station Odakyu'",
+          "tags": ["tip"],
+          "tips": ["Day packs only — Kyoto bags already forwarded · confirm bags were collected at reception"],
+          "location": null
+        },
+        {
+          "time": "8:30am",
+          "title": "Romancecar — Shinjuku → Hakone-Yumoto",
+          "description": "Direct, no transfers, ~85 min. EXE10 formation. Book Car 2 or 3, C/D seats (right side facing Hakone = Mt Fuji side), two consecutive rows turned to face each other — seats 4+4 facing. C/D side for Fuji views between Shin-Matsuda and Kayama stations (~50-60 min into the journey). Hakone Freepass (¥7,100) and Romancecar seat reservation (~¥1,100) are separate purchases.",
+          "nav": "Shinjuku Station · Odakyu line platforms (west side) · Romancecar platform · Search 'Shinjuku Station Odakyu Romancecar'",
+          "tags": ["anchor", "transit"],
+          "tips": ["Car 2 or 3 · C/D seats · two consecutive rows facing · Fuji views between Shin-Matsuda and Kayama · June visibility ~7% — nice if it happens"],
+          "location": {
+            "name": "Shinjuku Station Odakyu",
+            "lat": 35.6938,
+            "lng": 139.7004,
+            "maps_url": "https://maps.google.com/maps?daddr=Shinjuku+Station+Odakyu+Tokyo"
+          }
+        },
+        {
+          "time": "9:55am",
+          "title": "Arrive Hakone-Yumoto · Tozan Railway → Gora",
+          "description": "Transfer to Hakone Tozan Railway at Hakone-Yumoto Station. ~35 min to Gora, ¥460, covered by Hakone Freepass. June = peak hydrangea season — ~10,000 plants line both sides of the tracks. Sit by the window. Train does switchbacks up the mountain — look out for the reversals.",
+          "nav": "Hakone-Yumoto Station · transfer to Hakone Tozan Railway platform · board toward Gora · Search 'Hakone-Yumoto Station'",
+          "tags": ["transit"],
+          "tips": ["~35 min to Gora · covered by Freepass · sit by window for hydrangea views · train does 3 switchbacks"],
+          "location": {
+            "name": "Hakone-Yumoto Station",
+            "lat": 35.2347,
+            "lng": 139.1047,
+            "maps_url": "https://maps.google.com/maps?daddr=Hakone-Yumoto+Station"
+          }
+        },
+        {
+          "time": "10:30am",
+          "title": "Gora → Owakudani via Cable Car + Ropeway",
+          "description": "Tozan Cable Car from Gora to Sounzan (~10 min, 6 stations, covered by Freepass). Transfer to Hakone Ropeway at Sounzan → Owakudani (~15 min, covered by Freepass). Gondolas depart every minute. Views of volcanic steam vents below on the approach to Owakudani. Go early — queues build by midday.",
+          "nav": "Gora Station · Tozan Cable Car platform → Sounzan Station · Transfer to Hakone Ropeway → Owakudani Station · Search 'Owakudani Station Hakone'",
+          "tags": ["transit"],
+          "tips": ["All covered by Freepass · gondolas every minute · queues build midday — go early"],
+          "location": {
+            "name": "Owakudani Station Hakone",
+            "lat": 35.2603,
+            "lng": 139.0178,
+            "maps_url": "https://maps.google.com/maps?daddr=Owakudani+Station+Hakone"
+          }
+        },
+        {
+          "time": "11:00am",
+          "title": "Owakudani — volcanic valley + snack stop",
+          "description": "Walk the volcanic path, steam vents, sulphur smell, lunar landscape. Buy kuro-tamago (black eggs boiled in the volcanic hot springs) — mandatory group photo even if nobody eats them. Egg soft cream from the stalls is the actual snack. Eki Shokudo restaurant on the 2nd floor of the station building has curry, soba, pasta with volcanic valley views. Allow 60 min. Free entry to the area.",
+          "nav": "At Owakudani Station · volcanic trail is directly outside the station · Eki Shokudo is 2nd floor of station building · Search 'Owakudani Hakone'",
+          "tags": ["free"],
+          "tips": ["Free entry · check hakonerw.co.jp before — can close with volcanic activity · egg soft cream recommended · kuro-tamago ¥600 for 5 eggs"],
+          "location": {
+            "name": "Owakudani Volcanic Valley Hakone",
+            "lat": 35.2603,
+            "lng": 139.0178,
+            "maps_url": "https://maps.google.com/maps?daddr=Owakudani+Volcanic+Valley+Hakone"
+          }
+        },
+        {
+          "time": "12:00pm",
+          "title": "Ropeway + Cable Car back → Gora → Chokoku-no-Mori",
+          "description": "Ropeway back to Sounzan, cable car to Gora, then one stop on Tozan Railway to Chokoku-no-Mori Station. Open Air Museum is a 2-min walk from the station exit. All covered by Freepass.",
+          "nav": "Owakudani Station · Ropeway back → Sounzan · Cable car → Gora · Tozan Railway 1 stop → Chokoku-no-Mori Station · 2 min walk to museum · Search 'Hakone Open Air Museum'",
+          "tags": ["transit"],
+          "tips": ["All covered by Freepass · ~35 min total"],
+          "location": {
+            "name": "Hakone Open Air Museum",
+            "lat": 35.2447,
+            "lng": 139.0514,
+            "maps_url": "https://maps.google.com/maps?daddr=Hakone+Open+Air+Museum"
+          }
+        },
+        {
+          "time": "1:00pm",
+          "title": "Hakone Open Air Museum",
+          "description": "World-class sculpture park — Henry Moore, Rodin, Picasso pavilion, Yayoi Kusama stained glass tower. Partially covered walkways make it rain-resilient. Feels like wandering a landscape not a museum. Allow 90 min. The teenagers who weren't excited will be surprised.",
+          "nav": "2 min walk from Chokoku-no-Mori Station · Search 'Hakone Open Air Museum' · entrance on the south side of the station",
+          "tags": [],
+          "tips": ["¥1,900 adults · ¥1,600 high school/uni · buy online for ¥200 discount · partially covered — rain resilient"],
+          "location": {
+            "name": "Hakone Open Air Museum",
+            "lat": 35.2447,
+            "lng": 139.0514,
+            "maps_url": "https://maps.google.com/maps?daddr=Hakone+Open+Air+Museum"
+          }
+        },
+        {
+          "time": "2:30pm",
+          "title": "Tozan Railway back down → Hakone-Yumoto",
+          "description": "Back through the hydrangea corridor — afternoon light, different feel from the morning. ~35 min back down to Hakone-Yumoto. Covered by Freepass.",
+          "nav": "Chokoku-no-Mori Station · Tozan Railway toward Hakone-Yumoto · ~35 min · Search 'Hakone-Yumoto Station'",
+          "tags": ["transit"],
+          "tips": ["~35 min · afternoon hydrangea views from the window"],
+          "location": {
+            "name": "Hakone-Yumoto Station",
+            "lat": 35.2347,
+            "lng": 139.1047,
+            "maps_url": "https://maps.google.com/maps?daddr=Hakone-Yumoto+Station"
+          }
+        },
+        {
+          "time": "3:00pm",
+          "title": "Lunch — Hakone Yumoto Brewery",
+          "description": "Neapolitan-style pizza, seasonal dishes, homemade craft beer by the Hayakawa River. Good for the whole group — vegetarians covered with pizza, picky eaters happy, foodies get the craft beer pairing. Call ahead to reserve for 8 people.",
+          "nav": "Walk from Hakone-Yumoto Station · Hayakawa River area · Search 'Hakone Yumoto Brewery' · ~5 min walk from station",
+          "tags": ["food"],
+          "tips": ["Call ahead to reserve for 8 · vegetarian pizza available · craft beer pairing for the adults"],
+          "location": {
+            "name": "Hakone Yumoto Brewery",
+            "lat": 35.2347,
+            "lng": 139.1025,
+            "maps_url": "https://maps.google.com/maps?daddr=Hakone+Yumoto+Brewery"
+          }
+        },
+        {
+          "time": "4:15pm",
+          "title": "Hayakawa River walk — hydrangeas",
+          "description": "20-min gentle riverside walk through hydrangeas along the Hayakawa River. Free, unhurried wind-down before heading to Odawara.",
+          "nav": "Walk from brewery along Hayakawa River · signposted riverside path · Search 'Hayakawa River Hakone-Yumoto'",
+          "tags": ["free"],
+          "tips": ["Free · 20 min · hydrangeas peak June · gentle flat walk"],
+          "location": {
+            "name": "Hayakawa River Hakone-Yumoto",
+            "lat": 35.2349,
+            "lng": 139.1031,
+            "maps_url": "https://maps.google.com/maps?daddr=Hayakawa+River+Hakone-Yumoto"
+          }
+        },
+        {
+          "time": "4:45pm",
+          "title": "Hakone-Yumoto → Odawara",
+          "description": "Tozan Railway back to Odawara. ~15 min. Pick up ekiben (station bento boxes) at Odawara Station — great variety, eating on the Shinkansen is part of the experience. Look for inari or vegetable bento for vegetarians.",
+          "nav": "Hakone-Yumoto Station · Tozan Railway / Odakyu toward Odawara · ~15 min · Search 'Odawara Station'",
+          "tags": ["transit"],
+          "tips": ["~15 min · buy ekiben at Odawara Station for the Shinkansen · inari or vegetable bento for vegetarians"],
+          "location": {
+            "name": "Odawara Station",
+            "lat": 35.2565,
+            "lng": 139.1545,
+            "maps_url": "https://maps.google.com/maps?daddr=Odawara+Station"
+          }
+        },
+        {
+          "time": "5:15pm",
+          "title": "Shinkansen Odawara → Kyoto — next available",
+          "description": "Tokaido Shinkansen runs every 15-20 min from Odawara. No fixed departure — board the next Hikari or Kodama. ~75 min to Kyoto. E seats (right side facing Kyoto direction) for the Mt Fuji view angle on a clear evening.",
+          "nav": "Odawara Station · Shinkansen platforms (follow signs from main station) · board Hikari or Kodama toward Kyoto/Osaka · E seats right side · Search 'Odawara Station Shinkansen'",
+          "tags": ["transit"],
+          "tips": ["Next available Hikari or Kodama · no reservation needed for unreserved cars · ~75 min · E seats right side for Fuji view · eat ekiben on the train"],
+          "location": {
+            "name": "Odawara Station Shinkansen",
+            "lat": 35.2565,
+            "lng": 139.1545,
+            "maps_url": "https://maps.google.com/maps?daddr=Odawara+Station+Shinkansen"
+          }
+        },
+        {
+          "time": "~6:30pm",
+          "title": "Arrive Kyoto Station · collect bags · hotel",
+          "description": "Arrive Kyoto ~6:30-7pm. Walk 6 min to Yamato Transport office (code 062271) at 油小路町308 — open until 9pm — to collect forwarded bags. Then GO app van or taxi to hotel in Higashiyama. Pre-book MK Taxi (075-757-6212) for pickup from Yamato office if preferred.",
+          "nav": "Kyoto Station · walk 6 min northwest to Yamato office (油小路町308) · Search 'Yamato Transport Kyoto Ekimae' · then taxi or GO van to hotel · Search 'Higashiyama Sanjo Kyoto'",
+          "tags": ["anchor"],
+          "tips": ["Yamato office code 062271 · open until 9pm · 6 min walk from Kyoto Station · MK Taxi 075-757-6212 for group pickup from Yamato office"],
+          "location": {
+            "name": "Yamato Transport Kyoto Ekimae",
+            "lat": 34.9854,
+            "lng": 135.7533,
+            "maps_url": "https://maps.google.com/maps?daddr=Yamato+Transport+Kyoto+Ekimae"
+          }
+        }
+      ],
+      "rain_plan": "Owakudani is outdoors but brief — ponchos fine. Tozan Railway hydrangeas are beautiful in light rain. Open Air Museum has partially covered walkways — rain resilient. Hayakawa River walk can be skipped if heavy rain. If Owakudani ropeway is closed (check hakonerw.co.jp), skip Owakudani and spend more time at the Open Air Museum instead — the day still works well without it.",
+      "notes": "Hakone Freepass (¥7,100): covers Romancecar base fare from Shinjuku, Tozan Railway, cable car, and ropeway. Buy at Shinjuku Odakyu station or on EMot. Romancecar seat reservation (~¥1,100): separate purchase on EMot or at the Odakyu counter. Cancellation fee ¥220 per person. Ohiradai hydrangea path: worth a stop only if weather is exceptional — otherwise the train window views are already impressive."
+    }
+  ],
+  "practical": {
+    "freepass": "Hakone Freepass ¥7,100 from Shinjuku covers: Odakyu line Shinjuku→Hakone-Yumoto (base fare for Romancecar), Tozan Railway, Tozan Cable Car, Hakone Ropeway, and various bus routes. Buy at Shinjuku Odakyu station or on EMot.",
+    "romancecar": "Romancecar Limited Express seat reservation ~¥1,100 per person, separate from the Freepass. Book on EMot (web-odakyu.com) or at Shinjuku Odakyu ticket counter. EXE10 formation — no observation deck but comfortable reserved seats. Car 2 or 3, C/D seats. Cancellation fee ¥220 per person.",
+    "owakudani_warning": "Owakudani ropeway can close at short notice due to volcanic activity. Always check hakonerw.co.jp a few days before Jun 11. If ropeway closed: skip Owakudani, spend more time at Open Air Museum.",
+    "transport": "All Hakone transport covered by Freepass. Suica accepted for any non-Freepass legs. Shinkansen Odawara→Kyoto: unreserved car, board next Hikari or Kodama, ~75 min.",
+    "food_vegetarians": "Hakone Yumoto Brewery: Neapolitan pizza is vegetarian-friendly. Owakudani: egg soft cream and kuro-tamago are vegetarian. Odawara Station ekiben: look for inari or vegetable bento.",
+    "yamato_kyoto": "Yamato Transport Kyoto Ekimae office: 〒600-8231 京都府京都市下京区油小路通魚ノ棚下る油小路町308. Office code 062271. Open until 9pm. 6 min walk from Kyoto Station. Tel: 075-633-2660. Collect forwarded bags here on arrival."
+  }
+}
